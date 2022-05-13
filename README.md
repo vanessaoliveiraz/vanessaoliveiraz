@@ -1,5 +1,5 @@
 ### Olá, Me chamo Vanessa Oliveira 🦋
-- 🔭 Futura Dev Fullstack 👩‍🎓
+- 🔭 Futura Dev Front-End 👩‍🎓
 - 📫 Student Universitary TI
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="30">
